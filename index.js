@@ -2,6 +2,6 @@ let a = 3;
 let b = 4;
 b = 2016;
 
-let demo = 2;
+let demo = 8;
 demo = 3;
 demo = 18;
