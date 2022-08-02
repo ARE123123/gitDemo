@@ -1,7 +1,1 @@
-let a = 3;
-let b = 4;
-b = 2016;
-
-let demo = 8;
-demo = 3;
-demo = 20222;
+let a =1
